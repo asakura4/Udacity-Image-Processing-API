@@ -12,7 +12,7 @@
 ## endpoint
 1. /api: for make sure website is alive
 2. /resize/image?filename={filename.jpg}&width={width}&height={height}  
-- filename are limited to exist image name with .jpg below:
+- filename are limited to exist image name with .jpg below:  
 encendarport.jpg    
 fjord.jpg  
 icelandwaterfall.jpg\
